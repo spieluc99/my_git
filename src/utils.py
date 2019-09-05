@@ -3,7 +3,7 @@ import pandas as pd
 
 
 def hello_world:
-    print("")
+    print("algo")
     print("hello world!")
 
 def show_df(df):
